@@ -1,2 +1,2 @@
 # Angel-Mendez-prueba-pitayatech
-Pruepa Tecnica
+Prueba Tecnica
